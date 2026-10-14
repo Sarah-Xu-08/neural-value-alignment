@@ -103,12 +103,6 @@ python run_binary_choice.py config_binary_choice.yml
 
 Decoder training is not part of the default figure-notebook run. This code-only distribution has not been validated by retraining models or rerunning the data-dependent analyses.
 
-## Snapshot provenance
-
-The source code and configuration files are preserved from the supplied v2 export. For GitHub distribution, saved notebook outputs and execution counts, Python bytecode caches, generated package metadata, and local system files were removed. Documentation, citation metadata, and Git ignore rules were added, and executable permissions were restored for the run and post-install scripts. No research algorithm changes were made.
-
-The `data/` and `results/` directories are ignored by Git. Keep separately obtained research inputs and generated artifacts out of commits.
-
 ## Citation
 
 If you use this code in your research, please cite the paper:
