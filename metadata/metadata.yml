@@ -1,0 +1,25 @@
+metadata_version: 1
+name: 'Neural Value Alignment: human-AI collaboration under goal-action ambiguity'
+description: 'This is the code used to replicate the results in the manuscript titled:
+  Neural Value Alignment: human-AI collaboration under goal-action ambiguity.'
+tags:
+- EEG
+authors:
+- name: Xin Xu
+  affiliations:
+  - name: Korea Advanced Institute of Science and Technology
+- name: Yansen Wang
+  affiliations:
+  - name: Miscrosoft Research Asia
+- name: Dongqi Han
+  affiliations:
+  - name: Miscrosoft Research Asia
+- name: Dongsheng Li
+  affiliations:
+  - name: Miscrosoft Research Asia
+- name: Sang Wan Lee
+  affiliations:
+  - name: Korea Advanced Institute of Science and Technology
+corresponding_contributor:
+  name: Xin Xu
+  email: sarahxu0811@kaist.ac.kr

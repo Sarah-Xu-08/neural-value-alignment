@@ -1,0 +1,25 @@
+# Research data and generated results (not distributed)
+data/
+results/
+checkpoints/
+*.pkl
+*.pickle
+*.npy
+*.npz
+*.mat
+*.set
+*.fdt
+*.pt
+*.pth
+*.ckpt
+# Python and notebook artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+# Local machine and credentials
+.DS_Store
+.env
+.env.*

@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper listed below."
+title: "Neural Value Alignment: Human–AI Collaboration Under Goal–Action Ambiguity"
+type: software
+version: "codeocean-v2"
+repository-code: "https://github.com/Sarah-Xu-08/neural-value-alignment"
+url: "https://codeocean.com/capsule/6361644/tree/v2"
+license: MIT
+authors:
+  - family-names: Xu
+    given-names: Xin
+  - family-names: Wang
+    given-names: Yansen
+  - family-names: Han
+    given-names: Dongqi
+  - family-names: Li
+    given-names: Dongsheng
+  - family-names: Lee
+    given-names: Sang Wan
+preferred-citation:
+  type: article
+  title: "Neural Value Alignment: Human–AI Collaboration Under Goal–Action Ambiguity"
+  authors:
+    - family-names: Xu
+      given-names: Xin
+    - family-names: Wang
+      given-names: Yansen
+    - family-names: Han
+      given-names: Dongqi
+    - family-names: Li
+      given-names: Dongsheng
+    - family-names: Lee
+      given-names: Sang Wan
+  journal: "IEEE Transactions on Cybernetics"
+  year: 2026
+  doi: "10.1109/TCYB.2026.3722605"

@@ -1,0 +1,19 @@
+data:
+  type: game1
+  root_path: /root/capsule/data/eeg
+  subject_id: "03"
+  fold: 0
+  pe_type: "srpe3"
+  fixed_bank: True
+
+lr: 1e-4
+
+weight_decay: 5e-4
+
+batch_size: 2
+
+runtime: 
+  seed: 123
+  output_dir: results/binar_choice/03
+  checkpoint_dir: results/binaryr_choice/03
+  tb_log_dir: results/binaryr_choice/03
